@@ -1,7 +1,7 @@
 # Bangladesh-Unified-SIM-Codes
 A comprehensive collection of USSD, SMS, and short codes for all mobile operators in Bangladesh (Grameenphone, Robi, Banglalink, Teletalk, Airtel). Easily access mobile services like balance check, internet packages, offers, and more—unified in one place.
 
-### 📱 Mobile Transactions (All SIMs)
+### 📱 Internet Banking (All SIMs)
 
 ![Bkash](https://play-lh.googleusercontent.com/1CRcUfmtwvWxT2g-xJF8s9_btha42TLi6Lo-qVkVomXBb_citzakZX9BbeY51iholWs=s48) ![Nagad](https://play-lh.googleusercontent.com/9ps_d6nGKQzfbsJfMaFR0RkdwzEdbZV53ReYCS09Eo5MV-GtVylFD-7IHcVktlnz9Mo=w48-h48) ![Rocket](https://play-lh.googleusercontent.com/sDY6YSDobbm_rX-aozinIX5tVYBSea1nAyXYI4TJlije2_AF5_5aG3iAS7nlrgo0lk8=w48-h48) ![SureCash](https://play-lh.googleusercontent.com/7P3DsQan_NHSE3PwEM9PwqVgdpqI-HsXwhJx-vwx2hjrUzy882Q7z3HVR2cL96IR2g=w48-h48) ![UPay](https://play-lh.googleusercontent.com/cCVvEEwDQSPmDO8F-kryWhvzy53JllG1FGtHGDG-SDgfVTvvYSvWEXXDbgAY0hf7Bg=w48-h48) ![MCash](https://play-lh.googleusercontent.com/8sY7fsOPPoXNt36tNQR9dOnpmbjaYaoXQ8e2U_m-Jd535v1W--Zp31JUFAT1j35lmA4=w48-h48) ![MyCash](https://play-lh.googleusercontent.com/XxjDubic8DtGeyEgXe_JXx7alBSloX2zfiQzwOh4IwQFc-ZARAlzJwXJ_0mo55EkHA=w48-h48) 
 | Service     | USSD Code |
