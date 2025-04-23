@@ -26,7 +26,7 @@ A comprehensive collection of USSD, SMS, and short codes for all mobile operator
 | All Services                   | *121#                                               |
 | SIM Number                     | *511#                                               |
 | Main Balance                   | *124#                                               |
-| Internet Balance               | *5000*500#, *124*5#, *121*1#, *222*3#               |
+| Internet Balance               | **5000*500#, *124*5#, *121*1#, *222*3#               |
 | Minutes Balance                | *124*2#                                             |
 | SMS Balance                    | *124*3#                                             |
 | View All Packages              | *125#                                               |
