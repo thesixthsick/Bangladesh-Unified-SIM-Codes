@@ -1,7 +1,7 @@
 # Bangladesh-Unified-SIM-Codes
 A comprehensive collection of USSD, SMS, and short codes for all mobile operators in Bangladesh (Grameenphone, Robi, Banglalink, Teletalk, Airtel). Easily access mobile services like balance check, internet packages, offers, and more—unified in one place.
 
-### 📱 Mobile Banking (All SIMs)
+### 📱 Internet Banking (All SIMs)
 
 ![Bkash](https://play-lh.googleusercontent.com/1CRcUfmtwvWxT2g-xJF8s9_btha42TLi6Lo-qVkVomXBb_citzakZX9BbeY51iholWs=s48) ![Nagad](https://play-lh.googleusercontent.com/9ps_d6nGKQzfbsJfMaFR0RkdwzEdbZV53ReYCS09Eo5MV-GtVylFD-7IHcVktlnz9Mo=w48-h48) ![Rocket](https://play-lh.googleusercontent.com/sDY6YSDobbm_rX-aozinIX5tVYBSea1nAyXYI4TJlije2_AF5_5aG3iAS7nlrgo0lk8=w48-h48) ![SureCash](https://play-lh.googleusercontent.com/7P3DsQan_NHSE3PwEM9PwqVgdpqI-HsXwhJx-vwx2hjrUzy882Q7z3HVR2cL96IR2g=w48-h48) ![UPay](https://play-lh.googleusercontent.com/cCVvEEwDQSPmDO8F-kryWhvzy53JllG1FGtHGDG-SDgfVTvvYSvWEXXDbgAY0hf7Bg=w48-h48) ![MCash](https://play-lh.googleusercontent.com/8sY7fsOPPoXNt36tNQR9dOnpmbjaYaoXQ8e2U_m-Jd535v1W--Zp31JUFAT1j35lmA4=w48-h48) ![MyCash](https://play-lh.googleusercontent.com/XxjDubic8DtGeyEgXe_JXx7alBSloX2zfiQzwOh4IwQFc-ZARAlzJwXJ_0mo55EkHA=w48-h48) 
 | Service     | USSD Code |
@@ -15,7 +15,6 @@ A comprehensive collection of USSD, SMS, and short codes for all mobile operator
 | Mycash      | \*225#     |
 
 ---
-
 ![](https://play-lh.googleusercontent.com/ypbooFBDXpDUEBFTL6J6BC6NN4fYKA4NH-Exh5RkebTrz6DpOxW4w8ImHE8bjcJlE3Y=w240-h480)
 ### 🟧 Banglalink (019, 014)
 | Service                         | USSD Code or Action                          |
@@ -43,7 +42,6 @@ A comprehensive collection of USSD, SMS, and short codes for all mobile operator
 | Missed Call Alert OFF           | SMS "STOP" to 622                            |
 
 ---
-
 ![](https://play-lh.googleusercontent.com/8dKenJeYnw-c49E6JZoilnHCXQ_tUWoHrAYMV35rVd6oX2Eko7O_YSESqTPFpB_8n8U=w240-h480)
 ### 🔵 Grameenphone (017, 013)
 | Service                         | USSD Code or Action        |
@@ -71,8 +69,7 @@ A comprehensive collection of USSD, SMS, and short codes for all mobile operator
 | Missed Call Alert OFF           | SMS "STOP MCA" to 6222     |
 
 ---
-
-![](https://play-lh.googleusercontent.com/8dKenJeYnw-c49E6JZoilnHCXQ_tUWoHrAYMV35rVd6oX2Eko7O_YSESqTPFpB_8n8U=w240-h480)
+![](https://play-lh.googleusercontent.com/Abk7nBGQ2iaOvhHv3peifk57pAiQwK_OBw3bA7lnW2cN7AVU84517Lv7kup7wKP7yA=w240-h480)
 ### 🔴 Robi (018)
 | Service                         | USSD Code or Action |
 | ------------------------------- | ------------------- |
@@ -97,8 +94,7 @@ A comprehensive collection of USSD, SMS, and short codes for all mobile operator
 | Missed Call Alert OFF           | SMS "OFF" to 8272   |
 
 ---
-
-![](https://play-lh.googleusercontent.com/8dKenJeYnw-c49E6JZoilnHCXQ_tUWoHrAYMV35rVd6oX2Eko7O_YSESqTPFpB_8n8U=w240-h480)
+![](https://play-lh.googleusercontent.com/s8wKCzccXhcIM_SYaLUsQc_VamkcyIURt5GOFz34vVflOtFxjCubQKriVvwSvhnlsKU=w240-h480)
 ### 🟥 Airtel (016)
 | Service                         | USSD Code or Action                 |
 | ------------------------------- | ----------------------------------- |
@@ -126,7 +122,6 @@ A comprehensive collection of USSD, SMS, and short codes for all mobile operator
 | Missed Call Alert OFF           | \*121\*3*4#                           |
 
 ---
-
 ![](https://play-lh.googleusercontent.com/e99h2XlCDarz1Z7iKUy5f34w8iqcqHcCRguQEBWCQPC0Fpxqs4k3S9XZLurzv5C5aA=w240-h480)
 ### 🟩 Teletalk (015)
 | Service                        | USSD Code or Action                                  |
